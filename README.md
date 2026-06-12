@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=CMU%20Information%20Systems;AI%20%26%20Quantitative+Finance;Full+Stack+Developer;Conversational+Swarm+Intelligence+Research)](https://github.com/rushil-singh24)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=CMU%20Information%20Systems;AI%20%26%20Quantitative%20Finance;Full-Stack%20Developer)](https://github.com/rushil-singh24)
 
 </div>
 
@@ -23,12 +23,11 @@
 
 ## 👨‍💼 About Me
 
-I'm a **Information Systems student at Carnegie Mellon University** with minors in Artificial Intelligence and Business Analytics & Optimization. My focus spans **full-stack web development**, **quantitative finance**, **machine learning**, and **artificial intelligence research**.
+I'm a **Information Systems student at Carnegie Mellon University** with minors in Artificial Intelligence and Business Analytics & Optimization. My focus spans **full-stack web development**, **quantitative finance**, and **machine learning applications**.
 
-Currently advancing predictive modeling while building scalable applications. Strong foundation in algorithms, data structures, and modern web technologies with a passion for applying AI/ML to financial markets and user-centric design.
+Currently advancing predictive modeling while building scalable applications. Strong foundation in algorithms, data structures, and modern web technologies with a passion for applying AI/ML to financial and web-based problems.
 
 **Current Focus:**
-- 🤖 Conversational swarm intelligence & prediction markets
 - 📈 Quantitative finance & options pricing models
 - 🎵 Personalized recommendation algorithms
 - 💻 Full-stack development with React & Python
@@ -65,7 +64,6 @@ Currently advancing predictive modeling while building scalable applications. St
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-667eea?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-667eea?style=for-the-badge&logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-667eea?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -240,10 +238,10 @@ Bachelor of Science in Information Systems | Expected December 2028
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
