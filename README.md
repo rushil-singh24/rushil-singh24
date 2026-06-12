@@ -69,20 +69,13 @@ Currently advancing predictive modeling while building scalable applications. St
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushil-singh24&show_icons=true&theme=dark&title_color=667eea&icon_color=667eea" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil-singh24&layout=compact&theme=dark&title_color=667eea" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rushil-singh24&theme=dark&background=0D1117&ring=667eea&fire=667eea&currStreakNum=667eea&currStreakLabel=667eea&dates=FFFFFF" />
-  </a>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rushil-singh24&show_icons=true&theme=dark&title_color=667eea&icon_color=667eea&text_color=ffffff&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil-singh24&layout=compact&theme=dark&title_color=667eea&text_color=ffffff&bg_color=0d1117" />
+  <br />
+  <img width="48%" src="https://streak-stats.demolab.com?user=rushil-singh24&theme=dark&background=0D1117&ring=667eea&fire=667eea&currStreakNum=667eea&currStreakLabel=667eea&dates=FFFFFF" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=rushil-singh24&bg_color=0d1117&color=ffffff&line=667eea&point=667eea&area=true&hide_border=true" />
+</p>
 
 ---
 
@@ -193,7 +186,7 @@ Building machine learning models for prediction market trading.
 
 ---
 
-## 🏆 Education & Honors
+## 🏆 Education
 
 **Carnegie Mellon University** | Pittsburgh, PA
 Bachelor of Science in Information Systems | Expected December 2028
