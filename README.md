@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=CMU%20Information%20Systems;AI%20%26%20Quantitative%20Finance;Full-Stack%20Developer)](https://github.com/rushil-singh24)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=CMU%20Information%20Systems;Full-Stack%20Developer;Quantitative%20Analyst;ML%20Enthusiast)](https://github.com/rushil-singh24)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 I'm a **Information Systems student at Carnegie Mellon University** with minors in Artificial Intelligence and Business Analytics & Optimization. My focus spans **full-stack web development**, **quantitative finance**, and **machine learning applications**.
 
-Currently advancing predictive modeling while building scalable applications. Strong foundation in algorithms, data structures, and modern web technologies with a passion for applying AI/ML to financial and web-based problems.
+Currently advancing predictive modeling while building scalable applications. Strong foundation in algorithms, data structures, and modern web technologies with a passion for applying AI/ML to financial markets.
 
 **Current Focus:**
 - 📈 Quantitative finance & options pricing models
@@ -67,10 +67,28 @@ Currently advancing predictive modeling while building scalable applications. St
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushil-singh24&show_icons=true&theme=dark&title_color=667eea&icon_color=667eea" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil-singh24&layout=compact&theme=dark&title_color=667eea" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rushil-singh24&theme=dark&background=0D1117&ring=667eea&fire=667eea&currStreakNum=667eea&currStreakLabel=667eea&dates=FFFFFF" />
+  </a>
+</div>
+
+---
+
 ## 🎯 Featured Projects
 
-<details>
-<summary><b>🎵 TuneBloom - Personalized Music Discovery Engine</b></summary>
+### 🎵 TuneBloom - Personalized Music Discovery Engine
 
 AI-powered music recommendation platform that intelligently discovers new tracks tailored to user preferences using content-based filtering algorithms.
 
@@ -90,10 +108,9 @@ AI-powered music recommendation platform that intelligently discovers new tracks
 - Developed efficient API integration layer with smart caching and batch processing to reduce server calls
 - Executed secure authentication and enabled users to instantly create large playlists with comprehensive listening history analysis
 
-</details>
+---
 
-<details>
-<summary><b>📊 Option(al) Risk - Quantitative Finance Dashboard</b></summary>
+### 📊 Option(al) Risk - Quantitative Finance Dashboard
 
 Full-stack web application delivering advanced options portfolio risk analytics with sophisticated volatility calculations and Monte Carlo simulations.
 
@@ -113,8 +130,6 @@ Full-stack web application delivering advanced options portfolio risk analytics 
 - Developed Monte Carlo simulation engine processing 10,000+ price scenarios
 - Calculated Value-at-Risk statistics at multiple percentiles for portfolio risk assessment
 - Built interactive frontend visualizations with Recharts for trader decision-making
-
-</details>
 
 ---
 
