@@ -4,12 +4,13 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=CMU%20Information%20Systems;Full-Stack%20Developer;Quantitative%20Analyst;ML%20Enthusiast)](https://github.com/rushil-singh24)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=CMU%20Information%20Systems;Full-Stack%20Developer;Quantitative%20Finance%20Enthusiast;AI%2FML%20Explorer)](https://rushilsingh.site)
 
 </div>
 
 <div align="center">
 
+  [![Website](https://img.shields.io/badge/Website-rushilsingh.site-667eea?style=for-the-badge&logo=globe&logoColor=white)](https://rushilsingh.site)
   [![Email](https://img.shields.io/badge/Email-Contact-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushils@andrew.cmu.edu)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushil-singh1)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushil-singh24)
@@ -23,15 +24,16 @@
 
 ## 👨‍💼 About Me
 
-I'm a **Information Systems student at Carnegie Mellon University** with minors in Artificial Intelligence and Business Analytics & Optimization. My focus spans **full-stack web development**, **quantitative finance**, and **machine learning applications**.
+I'm an **Information Systems student at Carnegie Mellon University** with minors in Artificial Intelligence and Business Analytics & Optimization. My focus spans **full-stack web development**, **quantitative finance**, and **machine learning applications**.
 
-Currently advancing predictive modeling while building scalable applications. Strong foundation in algorithms, data structures, and modern web technologies with a passion for applying AI/ML to financial markets.
+Currently advancing predictive modeling while building scalable applications. Strong foundation in algorithms, data structures, and modern web technologies with a passion for applying AI/ML to financial markets and recommendation systems.
 
 **Current Focus:**
 - 📈 Quantitative finance & options pricing models
 - 🎵 Personalized recommendation algorithms
 - 💻 Full-stack development with React & Python
 - 🧠 Machine learning & data-driven applications
+- 🔮 Prediction markets & swarm intelligence
 
 ---
 
@@ -64,6 +66,7 @@ Currently advancing predictive modeling while building scalable applications. St
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-667eea?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-667eea?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-667eea?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -131,9 +134,10 @@ Full-stack web application delivering advanced options portfolio risk analytics 
 Advancing conversational swarm intelligence applications in prediction markets through collaborative research with CMU faculty.
 
 **Key Contributions:**
-- 🤖 Developed predictive models leveraging Thinkscape platform and swarm intelligence
-- 🔍 Translated complex data from 40+ user swarms into actionable insights
+- 🤖 Developed predictive models leveraging Thinkscape platform and swarm intelligence methodologies
+- 🔍 Translated complex data from 40+ user swarms into actionable insights for market prediction
 - 📈 Contributed to advancing prediction accuracy of sports contract markets
+- 🔬 Collaborated with research team on advanced AI/ML applications
 
 **Skills:** Predictive Modeling, Swarm Intelligence, Python, APIs, Data Analysis
 
@@ -145,41 +149,42 @@ Advancing conversational swarm intelligence applications in prediction markets t
 Developed educational content and led curriculum development for coding programs serving 80+ students.
 
 **Key Contributions:**
-- 📚 Built interactive learning library hosting 100+ hours of educational content
-- 🎓 Piloted curricula for competition math and coding camps (Python, Scratch, Sphero)
-- 📖 Created practice problems and video materials for elementary/middle school students
-- 🏗️ Established scalable lesson plans and frameworks for future instructors
+- 📚 Built interactive learning library hosting 100+ hours of educational content across multiple languages
+- 🎓 Piloted curricula for competition math and coding camps (Python, Scratch, Sphero robotics)
+- 📖 Created practice problems, video materials, and learning resources for elementary/middle school students
+- 🏗️ Established scalable lesson plans and instructional frameworks for future educators
 
-**Skills:** Curriculum Design, Python, Scratch, Educational Technology, Program Management
+**Skills:** Curriculum Design, Python, Scratch, Educational Technology, Program Management, Technical Writing
 
 ---
 
 ### Software Engineer | ScottyLabs - Labrador Committee
 **September 2025 - January 2026 | Pittsburgh, PA**
 
-Helped build ScottyLinked, a social networking platform for CMU job and research connections.
+Built ScottyLinked, a social networking platform for CMU job and research connections.
 
 **Key Contributions:**
-- 💻 Architected core data models and intelligent matching logic (5+ skill factors)
-- 🎨 Steered collaboration with Design+Technology departments
-- 🔍 Validated UI/UX through user surveys and social platform research
-- 🚀 Built with Next.js, React, and Supabase for scalable performance
+- 💻 Architected core data models and intelligent matching logic integrating 5+ skill factors
+- 🎨 Steered cross-functional collaboration with Design+Technology departments
+- 🔍 Validated UI/UX through user surveys and social platform research methodologies
+- 🚀 Engineered scalable platform using Next.js, React, and Supabase with optimized performance
 
-**Skills:** Next.js, React, Supabase, TypeScript, UI/UX Design, System Architecture
+**Skills:** Next.js, React, Supabase, TypeScript, UI/UX Design, System Architecture, Database Design
 
 ---
 
 ### Prediction Market Analyst | Traders @ CMU
 **February 2026 - Present | Pittsburgh, PA**
 
-Building machine learning models for prediction market trading.
+Building machine learning models for prediction market trading and market analysis.
 
-**Current Focus:**
-- 📈 Developed ML model achieving a successful win rate
-- 🔬 Backtested with trade simulations to optimize on pricing discrepancies
-- 💰 Fine-tuning predictive models for market edge detection
+**Key Contributions:**
+- 📈 Developed ML prediction model for market edge detection
+- 🔬 Backtested trading strategies with comprehensive trade simulations
+- 💰 Fine-tuned predictive models for optimal pricing discrepancy identification
+- 📊 Analyzed market trends and probability estimation models
 
-**Skills:** Machine Learning, Prediction Markets, Python, Backtesting, Financial Analysis
+**Skills:** Machine Learning, Prediction Markets, Python, Backtesting, Financial Analysis, Quantitative Trading
 
 ---
 
@@ -198,6 +203,7 @@ Bachelor of Science in Information Systems | Expected December 2028
 - Linear Algebra
 - Multivariable Calculus
 - Microeconomics
+- Probability & Statistics
 
 ---
 
@@ -206,12 +212,12 @@ Bachelor of Science in Information Systems | Expected December 2028
 | Category | Skills |
 |----------|--------|
 | **Web Development** | React, Next.js, TypeScript, HTML/CSS, TailwindCSS, Framer Motion |
-| **Backend & Data** | Python, Flask, PostgreSQL, Supabase, RESTful APIs |
-| **Machine Learning** | Predictive Modeling, Algorithm Development, Data Analysis |
-| **Finance & Quant** | Black-Scholes Model, Monte Carlo Simulations, Options Pricing, VaR Analytics |
-| **Design & UX** | Figma, User Research, UI/UX Design, Data Visualization |
-| **Tools & Platform** | Git, Docker, APIs, Supabase, MongoDB |
-| **Mathematics** | Linear Algebra, Discrete Math, Probability, Statistical Analysis |
+| **Backend & Data** | Python, Flask, PostgreSQL, Supabase, RESTful APIs, MongoDB |
+| **Machine Learning** | Predictive Modeling, Algorithm Development, Data Analysis, Classification |
+| **Finance & Quant** | Black-Scholes Model, Monte Carlo Simulations, Options Pricing, VaR Analytics, Backtesting |
+| **Design & UX** | Figma, User Research, UI/UX Design, Data Visualization, Prototyping |
+| **Tools & Platform** | Git, Docker, APIs, Supabase, Spotify API, Version Control |
+| **Mathematics** | Linear Algebra, Discrete Math, Probability, Statistical Analysis, Calculus |
 
 ---
 
@@ -219,6 +225,7 @@ Bachelor of Science in Information Systems | Expected December 2028
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-rushilsingh.site-667eea?style=for-the-badge&logo=globe&logoColor=white)](https://rushilsingh.site)
 [![Email](https://img.shields.io/badge/Email-rushils@andrew.cmu.edu-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushils@andrew.cmu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rushil--singh1-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushil-singh1)
 [![GitHub](https://img.shields.io/badge/GitHub-rushil--singh24-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushil-singh24)
@@ -236,19 +243,3 @@ Bachelor of Science in Information Systems | Expected December 2028
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer" width="100%" />
 </div>
-
-
-<!--
-**rushil-singh24/rushil-singh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
