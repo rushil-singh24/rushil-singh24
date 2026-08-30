@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=CMU%20Information%20Systems;Full-Stack%20Developer;Quantitative%20Finance%20Analyst;AI%2FML%20Researcher)](https://rushilsingh.site)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=CMU%20Information%20Systems;AI%20Engineer;Full-Stack%20Developer;ML%20Researcher)](https://rushilsingh.site)
 
 </div>
 
@@ -12,6 +12,7 @@
 
   [![Website](https://img.shields.io/badge/Website-rushilsingh.site-667eea?style=for-the-badge&logo=globe&logoColor=white)](https://rushilsingh.site)
   [![Email](https://img.shields.io/badge/Email-rushils@andrew.cmu.edu-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushils@andrew.cmu.edu)
+  [![Phone](https://img.shields.io/badge/Phone-(774)%20777--8174-667eea?style=for-the-badge&logo=phone&logoColor=white)](tel:7747778174)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-rushil--singh1-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushil-singh1)
   [![GitHub](https://img.shields.io/badge/GitHub-rushil--singh24-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushil-singh24)
 
@@ -24,52 +25,60 @@
 
 ## 👨‍💼 About Me
 
-I'm an **Information Systems student at Carnegie Mellon University** graduating in **December 2028** with minors in **Artificial Intelligence** and **Business Analytics & Optimization**. I'm passionate about building intelligent systems that solve real-world problems at the intersection of **full-stack development**, **quantitative finance**, and **machine learning**.
+I'm an **AI Engineer and Full-Stack Developer** at **Carnegie Mellon University** pursuing a **Bachelor of Science in Information Systems** with a minor in **Artificial Intelligence** (Expected May 2028). I specialize in building intelligent systems that combine **machine learning**, **full-stack development**, and **AI automation** to solve real-world problems.
 
-Currently advancing predictive modeling and trading algorithms while building scalable applications. Strong foundation in algorithms, data structures, and modern web technologies with specialized expertise in applying AI/ML to financial markets, recommendation systems, and swarm intelligence applications.
+Currently building AI-powered applications at **Twinly** and optimizing transformer models at **Perforated AI**. My expertise spans **cross-platform AI agents**, **PyTorch optimization**, **APIs and automation**, and **end-to-end product development**.
 
 **Current Focus:**
-- 📈 Quantitative finance, options pricing, and prediction markets
-- 🎵 Personalized AI-driven recommendation algorithms
+- 🤖 Cross-platform AI agents with voice cloning and natural language capabilities
+- 🧠 Transformer optimization and neural network efficiency
 - 💻 Full-stack web development with modern frameworks
-- 🧠 Predictive modeling and machine learning
-- 🔮 Swarm intelligence and collaborative AI systems
+- ⚡ API automation and production-scale deployments
+- 📊 Machine learning model optimization and experimentation
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-667eea?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-667eea?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-667eea?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-667eea?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-667eea?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-667eea?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-667eea?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-667eea?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-667eea?style=for-the-badge&logo=database&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-667eea?style=for-the-badge&logo=html5&logoColor=white)
 
+### ML & AI Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-667eea?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-667eea?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-667eea?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-667eea?style=for-the-badge&logo=plotly&logoColor=white)
+
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-667eea?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-667eea?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-667eea?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-667eea?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-667eea?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-667eea?style=for-the-badge&logo=framer&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-667eea?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### Backend & Data
 ![Python](https://img.shields.io/badge/Python-667eea?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-667eea?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-667eea?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-667eea?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-667eea?style=for-the-badge&logo=supabase&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-667eea?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Tools & Platforms
+### Developer Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-667eea?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-667eea?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-667eea?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-667eea?style=for-the-badge&logo=figma&logoColor=white)
-![Spotify API](https://img.shields.io/badge/Spotify%20API-667eea?style=for-the-badge&logo=spotify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-667eea?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-667eea?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-667eea?style=for-the-badge&logo=jupyter&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-667eea?style=for-the-badge&logo=weightsandbiases&logoColor=white)
 
 ---
 
@@ -84,154 +93,117 @@ Currently advancing predictive modeling and trading algorithms while building sc
 
 ## 🎯 Featured Projects
 
-### 🎵 TuneBloom - Personalized Music Discovery Engine
+### 🎵 TuneBloom – Music Discovery Application
 
-AI-powered music recommendation platform that intelligently discovers new tracks tailored to user preferences using advanced content-based filtering algorithms and audio feature analysis.
+AI-powered personalized music recommendation engine that intelligently discovers new tracks tailored to user preferences using advanced content-based filtering algorithms.
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | React, JavaScript, Spotify API, Tailwind CSS, PostgreSQL, Framer Motion |
-| **Scale** | Processes 1,000+ user listening history tracks |
+| **Stack** | JavaScript, React, Tailwind CSS, RESTful API, PostgreSQL, Framer Motion |
 | **Algorithm** | Euclidean distance-based content filtering on Spotify audio features |
-| **Performance** | Real-time recommendations with instant playlist generation |
-| **Features** | Gamified UI/UX, smart caching, batch API processing, OAuth 2.0 |
-| **Security** | Secure token management, encrypted credential storage |
-| **Repository** | [View on GitHub](https://github.com/rushil-singh24/TuneBloom) |
+| **Scale** | Processes 1,000+ user listening history tracks |
+| **Performance** | Real-time recommendations with smart caching and batch processing |
+| **Features** | Gamified UI/UX, OAuth 2.0 authentication, fallback strategies |
+| **Repository** | [View on GitHub](https://github.com/rushil-singh24/TuneBloom) | [Demo Video](#) |
 
 **Technical Highlights:**
-- Implemented content-based recommendation engine using Euclidean distance algorithms on Spotify audio features (danceability, energy, valence, tempo)
-- Built gamified, interactive UI with Framer Motion animations for engaging user feedback loops
-- Developed efficient API integration layer with smart caching and batch processing to reduce server calls by 70%
-- Executed secure OAuth 2.0 authentication enabling users to instantly create large playlists with comprehensive listening history analysis
-- Optimized database queries for sub-100ms recommendation generation at scale
-- Designed data visualization dashboard for music preference insights
+- Engineered content-based personalized music recommendation engine using Euclidean distance algorithms on Spotify audio features
+- Implemented fallback strategies and exclusion logic to filter through 1,000+ previously-heard tracks
+- Built gamified UI/UX system with Framer Motion and real-time feedback loops
+- Deployed secure login authentication with efficient API integration layer featuring smart caching and batch processing
+- Optimized database queries and API calls for high-performance recommendation generation
 
 ---
 
-### 📊 Option(al) Risk - Quantitative Finance Dashboard
+### 📊 Option(al) Risk – Quantitative Finance Tool
 
-Full-stack web application delivering advanced options portfolio risk analytics with sophisticated volatility calculations, Monte Carlo simulations, and Black-Scholes pricing models.
+Full-stack web application delivering options portfolio risk analytics with sophisticated volatility calculations and Monte Carlo simulations.
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | Python, Flask, React, TypeScript, Recharts, RESTful API |
-| **Scale** | 61+ stock tickers, 10,000+ Monte Carlo price paths |
-| **Models** | Black-Scholes option pricing, Value-at-Risk (VaR) analytics |
-| **Risk Metrics** | 95th & 99th percentile risk assessment, Greeks calculation |
-| **Simulation Engine** | 10,000+ price path scenarios for comprehensive downside risk analysis |
-| **Visualization** | Interactive dashboard with real-time portfolio sensitivity heatmaps |
-| **Repository** | [View on GitHub](https://github.com/rushil-singh24/OptionalRisk) |
+| **Stack** | TypeScript, Python, CSS, Flask, React, RESTful API |
+| **Models** | Black-Scholes option pricing across 61+ stock tickers |
+| **Scale** | 10,000+ Monte Carlo price path scenarios |
+| **Risk Metrics** | Value-at-Risk statistics at 95th & 99th percentiles |
+| **Visualization** | Interactive dashboard for portfolio sensitivity analysis |
+| **Repository** | [View on GitHub](https://github.com/rushil-singh24/OptionalRisk) | [Live Demo](#) |
 
 **Technical Highlights:**
-- Created full-stack dashboard with Python backend for sophisticated volatility calculations (historical volatility, implied volatility)
-- Implemented Black-Scholes model across 61+ stock tickers for real-time options pricing with Greeks (Delta, Gamma, Vega, Theta)
-- Developed Monte Carlo simulation engine processing 10,000+ price scenarios with geometric Brownian motion
-- Calculated Value-at-Risk statistics at multiple confidence intervals (95%, 99%) for comprehensive portfolio risk assessment
-- Built interactive frontend visualizations with Recharts for trader decision-making and portfolio optimization
-- Engineered efficient numerical computation pipeline reducing calculation time by 60%
-- Integrated real-time market data feeds for live option pricing
+- Created full-stack web dashboard for options portfolio risk analytics on data-backed volatility calculations
+- Performed Black-Scholes model across 61+ stock tickers to allow traders to analyze portfolio sensitivity
+- Implemented Monte Carlo risk simulation engine processing 10,000+ price path scenarios
+- Calculated Value-at-Risk statistics at multiple confidence intervals for comprehensive downside risk assessment
+- Built interactive visualizations enabling traders to optimize portfolio strategies
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔬 Research Intern | Unanimous AI
-**September 2025 - April 2026 | San Francisco, CA**
+### 🤖 Software Engineer | Twinly
+**Remote, EST | June 2026 – Present**
 
-Advancing conversational swarm intelligence applications in prediction markets through collaborative research with CMU faculty and industry experts.
+Building cross-platform AI agent capabilities enabling natural language interactions with voice cloning, reservation booking, and automated gaming.
 
 **Key Contributions:**
-- 🤖 Developed and optimized predictive models leveraging Thinkscape platform and swarm intelligence methodologies
-- 🔍 Translated complex data from 40+ user swarms into actionable insights for market prediction enhancement
-- 📈 Contributed to advancing prediction accuracy of sports contract markets by 15-20%
-- 🏗️ Built data processing pipelines for aggregating and analyzing swarm consensus predictions
-- 🔬 Collaborated with research team on advanced AI/ML applications and published findings
+- 🎯 Designed and shipped cross-platform AI agent capabilities in Swift and Python including voice cloning, reservation booking, and automated gaming accessible through natural prompts
+- 👥 Supported 100+ users and 2,000+ followers with reliable, production-grade features
+- 🖥️ Deployed Electron desktop builds across macOS and Windows, debugging platform-specific issues
+- 📦 Maintained consistently updated releases through Git version control, code reviews, and PR/MR-based feature integration
+- 🚀 Engineered seamless multi-platform experience with cross-language compatibility
 
 **Technical Skills Applied:** 
-- Predictive Modeling, Swarm Intelligence, Python, REST APIs, Data Analysis, Statistical Analysis, Machine Learning
+- Swift, Python, Electron, Cross-Platform Development, Git, Code Review, Natural Language Processing, API Integration
 
 ---
 
-### 👨‍🏫 Development Intern & Lead Instructor | Firefly Coders
-**January 2025 - April 2025 | Northborough, MA**
+### 🧠 Machine Learning Research Collaborator | Perforated AI
+**Pittsburgh, PA | May 2026 – Present**
 
-Developed comprehensive educational content and led curriculum development for coding programs serving 80+ elementary and middle school students.
+Developing PyTorch-based transformer optimization techniques to reduce model parameters and accelerate inference for trading models.
 
 **Key Contributions:**
-- 📚 Built interactive learning library hosting 100+ hours of high-quality educational content across Python, Scratch, and Sphero robotics
-- 🎓 Piloted and refined curricula for competition math programs and advanced coding camps
-- 📖 Created 50+ practice problem sets, video tutorials, and supplementary learning materials for elementary/middle school students
-- 🏗️ Established scalable lesson plans, instructional frameworks, and best practices documentation for future educators
-- 👥 Trained 5+ new instructors on curriculum delivery and student engagement strategies
-- 📊 Achieved 90%+ student satisfaction ratings and demonstrated measurable learning outcomes
+- 🔬 Developed PyTorch-based transformer optimization techniques using Perforated Backpropagation and artificial dendrite architectures
+- 📉 Reduced model parameters by 60% while accelerating trading-model inference by 15%+
+- 📊 Designed W&B (Weights & Biases) hyperparameter sweeps and multi-seed experimentation across 15+ parameter combinations
+- 🎯 Optimized dendrite thresholds, regularization, and module placement against baseline performance
+- 📈 Implemented systematic experimentation pipeline for model optimization and performance validation
 
 **Technical Skills Applied:** 
-- Curriculum Design, Python Programming, Scratch Visual Programming, Educational Technology, Program Management, Technical Writing, Pedagogy
+- PyTorch, Transformer Models, Hyperparameter Optimization, Weights & Biases, Python, Machine Learning Research, Model Compression
 
 ---
 
-### 💻 Software Engineer | ScottyLabs - Labrador Committee
-**September 2025 - January 2026 | Pittsburgh, PA**
+### ⚡ AI Engineering Intern | ListenFirst
+**New York City, NY | July 2026 – August 2026**
 
-Engineered ScottyLinked, a social networking platform designed for CMU job placements and research collaboration connections.
-
-**Key Contributions:**
-- 💻 Architected core data models and intelligent matching algorithms integrating 5+ skill factors and qualification criteria
-- 🎨 Steered cross-functional collaboration with Design+Technology departments ensuring cohesive product vision
-- 🔍 Validated UI/UX design through systematic user surveys, focus groups, and social platform research methodologies
-- 🚀 Engineered full-stack implementation using Next.js, React, and Supabase with optimized performance (Lighthouse 95+)
-- 🔐 Implemented secure authentication and user privacy protections with role-based access control
-- 📈 Deployed to production serving 2,000+ CMU students with 98% uptime SLA
-- 🎯 Optimized matching algorithm achieving 85% user satisfaction for connection quality
-
-**Technical Skills Applied:** 
-- Next.js, React, Supabase (PostgreSQL), TypeScript, RESTful APIs, System Architecture, Database Design, UI/UX Design, DevOps, Performance Optimization
-
----
-
-### 📈 Prediction Market Analyst | Traders @ CMU
-**February 2026 - Present | Pittsburgh, PA**
-
-Building advanced machine learning models for prediction market trading and market edge detection strategies.
+Built AI-powered automation workflows reducing manual effort and optimizing operational efficiency across client accounts.
 
 **Key Contributions:**
-- 📊 Developed ensemble ML model combining multiple predictive algorithms with 55%+ win rate on historical data
-- 🔬 Backtested trading strategies with comprehensive Monte Carlo simulations and trade execution simulations
-- 💰 Fine-tuned probabilistic models for optimal pricing discrepancy identification and market inefficiency detection
-- 📉 Analyzed market microstructure, volatility patterns, and probability divergence signals
-- 🎯 Implemented portfolio optimization strategies maximizing risk-adjusted returns (Sharpe ratio optimization)
-- 🔄 Conducted sensitivity analysis on model parameters across multiple market regimes
-- 📊 Developed visualization dashboards for model performance monitoring and strategy analysis
+- 🤖 Built AI-powered workflows shipped as organization-wide Claude Skills through Python, JavaScript, and RESTful APIs
+- ⏱️ Reduced manual reporting effort by 75% across 60+ projects as the Partnerships unit's sole intern
+- 💰 Developed production automation for monthly billing and scheduling across 40+ client accounts
+- 📊 Cut API call volume by 90%+ through optimized data pipelines
+- 💵 Surfaced $15K+ in billing discrepancies missed during manual processes
 
 **Technical Skills Applied:** 
-- Machine Learning (Classification, Regression, Ensemble Methods), Prediction Markets, Python, Backtesting, Financial Analysis, Quantitative Trading, Statistical Modeling, Time Series Analysis
+- Python, JavaScript, RESTful APIs, Claude AI, Workflow Automation, Data Pipeline Optimization, Billing Systems
 
 ---
 
 ## 🏆 Education
 
 **Carnegie Mellon University** | Pittsburgh, PA
-Bachelor of Science in Information Systems | **Expected Graduation: December 2028**
-
-**GPA:** 3.7/4.0
-
-**Minors:**
-- 🤖 Artificial Intelligence
-- 📊 Business Analytics & Optimization
+Bachelor of Science in Information Systems, Minor in Artificial Intelligence | **Expected May 2028**
 
 **Relevant Coursework:**
 - 🖥️ Data Structures & Algorithms
-- 📐 Discrete Mathematics
+- 🗄️ Database Design & Development
+- 🤖 Natural Language Processing
+- 👥 Designing Human-Centered Software
+- 📐 Discrete Math
+- 📊 Probability Theory
 - 🧮 Linear Algebra
-- 📊 Multivariable Calculus
-- 💰 Microeconomics
-- 🤖 Principles of Artificial Intelligence
-- 📈 Probability & Statistics
-- 💻 Web Application Development
-
-**Academic Honors:**
-- Dean's List (multiple semesters)
-- CMU Scholarship Recipient
+- 📈 Calculus 3
 
 ---
 
@@ -239,25 +211,43 @@ Bachelor of Science in Information Systems | **Expected Graduation: December 202
 
 | Category | Skills |
 |----------|--------|
-| **Web Development** | React, Next.js, TypeScript, HTML/CSS, TailwindCSS, Framer Motion, Responsive Design |
-| **Backend & Data** | Python, Flask, PostgreSQL, MongoDB, Supabase, RESTful APIs, Database Design |
-| **Machine Learning** | Predictive Modeling, Classification, Regression, Ensemble Methods, Algorithm Development, Data Analysis, Feature Engineering |
-| **Finance & Quant** | Black-Scholes Model, Monte Carlo Simulations, Options Pricing, VaR Analytics, Greeks Calculation, Backtesting, Portfolio Optimization |
-| **Design & UX** | Figma, User Research, UI/UX Design, Wireframing, Data Visualization, Prototyping, User Testing |
-| **DevOps & Tools** | Git, GitHub, Docker, Containerization, CI/CD Pipelines, Jupyter Notebooks, Supabase, Vercel |
-| **Mathematics** | Linear Algebra, Discrete Math, Probability Theory, Statistical Analysis, Calculus, Numerical Methods |
-| **Soft Skills** | Leadership, Curriculum Development, Technical Communication, Team Collaboration, Project Management, Mentoring |
+| **AI & Machine Learning** | PyTorch, Transformer Optimization, Hyperparameter Tuning, Model Compression, NLP, AI Agents |
+| **Full-Stack Development** | React, Node.js, TypeScript, Flask, Python, PostgreSQL, Supabase, RESTful APIs |
+| **Frontend Development** | React, JavaScript, TypeScript, TailwindCSS, Framer Motion, CSS, HTML |
+| **Backend Development** | Python, Flask, PostgreSQL, API Design, Data Pipeline Optimization |
+| **Cross-Platform Development** | Swift, Electron, macOS, Windows, Linux |
+| **Developer Tools** | Git, GitHub, Docker, GitHub Actions, Linux, Jupyter, Weights & Biases |
+| **Data Science** | Pandas, NumPy, Matplotlib, Data Analysis, Visualization |
+| **Soft Skills** | Technical Communication, Code Review, Team Collaboration, Problem-Solving |
 
 ---
 
-## 🏅 Achievements & Highlights
+## 🎓 Campus Involvement
 
-- **🎓 CMU Information Systems Program:** Top-tier education in systems thinking and technology leadership
-- **📊 Quantitative Finance:** Specialized expertise in options pricing, risk analytics, and prediction markets
-- **🚀 Full-Stack Development:** End-to-end product development from conception to production deployment
-- **👥 Leadership:** Successfully led teams and mentored 80+ students in technical education
-- **🔬 Research:** Contributing to cutting-edge research in swarm intelligence and prediction markets
-- **💡 Innovation:** Multiple AI/ML and FinTech projects demonstrating system design expertise
+### 180 Degrees Consulting | Student Consultant
+**Active Member | Pittsburgh, PA**
+
+Selected from competitive applicant pool for new consultant training program.
+
+**Development Focus:**
+- 🎤 Public speaking and presentation skills
+- 🎨 Deck design and visual communication
+- 🤝 Consulting real-world projects for Pittsburgh non-profits
+
+---
+
+### Traders @ CMU | Prediction Market Analyst
+**Active Member | Pittsburgh, PA**
+
+Building machine learning models for prediction market trading and arbitrage strategies.
+
+**Key Project:**
+- 🪙 Built cryptocurrency arbitrage tool achieving 65% win rate
+- 🔧 Fine-tuned ML model through backtesting with trade simulations
+- 📊 Optimized discrepancies between Kalshi's BTC price prediction market and sourcing data
+
+**Technical Skills Applied:** 
+- Machine Learning, Backtesting, Cryptocurrency Markets, Python, Trade Simulation
 
 ---
 
@@ -267,6 +257,7 @@ Bachelor of Science in Information Systems | **Expected Graduation: December 202
 
 [![Website](https://img.shields.io/badge/Website-rushilsingh.site-667eea?style=for-the-badge&logo=globe&logoColor=white)](https://rushilsingh.site)
 [![Email](https://img.shields.io/badge/Email-rushils@andrew.cmu.edu-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushils@andrew.cmu.edu)
+[![Phone](https://img.shields.io/badge/Phone-(774)%20777--8174-667eea?style=for-the-badge&logo=phone&logoColor=white)](tel:7747778174)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rushil--singh1-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushil-singh1)
 [![GitHub](https://img.shields.io/badge/GitHub-rushil--singh24-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushil-singh24)
 
@@ -277,13 +268,14 @@ Bachelor of Science in Information Systems | **Expected Graduation: December 202
 ## 💬 Let's Connect!
 
 I'm passionate about:
-- **Full-stack web development** and building user-centric applications
-- **Quantitative finance** and algorithmic trading
-- **Machine learning** applications to real-world problems
+- **AI engineering** and building intelligent systems
+- **Machine learning** applications and model optimization
+- **Full-stack development** and shipping production-grade products
+- **Cross-platform development** and seamless user experiences
 - **Open-source contributions** and collaborative development
-- **Mentoring** and sharing knowledge with the tech community
+- **Technical mentoring** and knowledge sharing
 
-Feel free to reach out for collaborations, opportunities, or just to chat about tech!
+Feel free to reach out for collaborations, opportunities, or just to chat about AI, ML, and tech!
 
 ---
 
