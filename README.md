@@ -73,8 +73,15 @@ Currently, I'm developing cross-platform AI agents at **Twinly** and optimizing 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil-singh24&layout=compact&theme=dark&title_color=667eea&text_color=ffffff&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=rushil-singh24&bg_color=0d1117&color=ffffff&line=667eea&point=667eea&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushil-singh24&theme=dark&bg_color=0d1117&title_color=667eea&text_color=ffffff&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushil-singh24&layout=compact&theme=dark&title_color=667eea&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rushil-singh24&theme=dark&background=0d1117&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" />
 </p>
 
 ---
@@ -221,8 +228,6 @@ Building machine learning models for prediction market trading and arbitrage str
 <div align="center">
   
   #### *"Building intelligent systems that solve real problems."*
-  
-  #### Crafted with ❤️ at CMU
   
 </div>
 
