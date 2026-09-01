@@ -133,6 +133,20 @@ PyTorch, Transformer Models, Hyperparameter Optimization, Weights & Biases, Pyth
 
 ---
 
+### ⚡ AI Engineering Intern | ListenFirst
+**New York City, NY | July 2026 – August 2026**
+
+Built AI-powered automation workflows reducing manual effort and optimizing operational efficiency across client accounts.
+
+**Key Contributions:**
+- Built AI-powered workflows shipped as organization-wide Claude Skills through Python, JavaScript, and RESTful APIs that reduced manual reporting effort by 75% across 60+ projects as the Partnerships unit's sole intern
+- Developed production automation for monthly billing and scheduling across 40+ client accounts, cutting API call volume by 90%+ through optimized data pipelines and surfacing $15K+ in billing discrepancies missed manually
+
+**Technical Skills Applied:** 
+Python, JavaScript, RESTful APIs, Claude AI, Workflow Automation, Data Pipeline Optimization, Billing Systems
+
+---
+
 ### 🤖 Software Engineer | Twinly
 **Remote, EST | June 2026 – August 2026**
 
@@ -145,20 +159,6 @@ Building cross-platform AI agent capabilities enabling natural language interact
 
 **Technical Skills Applied:** 
 Swift, Python, Electron, Cross-Platform Development, Git, Natural Language Processing, API Integration
-
----
-
-### ⚡ AI Engineering Intern | ListenFirst
-**New York City, NY | July 2026 – August 2026**
-
-Built AI-powered automation workflows reducing manual effort and optimizing operational efficiency across client accounts.
-
-**Key Contributions:**
-- Built AI-powered workflows shipped as organization-wide Claude Skills through Python, JavaScript, and RESTful APIs that reduced manual reporting effort by 75% across 60+ projects as the Partnerships unit's sole intern
-- Developed production automation for monthly billing and scheduling across 40+ client accounts, cutting API call volume by 90%+ through optimized data pipelines and surfacing $15K+ in billing discrepancies missed manually
-
-**Technical Skills Applied:** 
-Python, JavaScript, RESTful APIs, Claude AI, Workflow Automation, Data Pipeline Optimization, Billing Systems
 
 ---
 
