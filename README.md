@@ -29,7 +29,7 @@ I'm an **Artificial Intelligence and Information Systems student at Carnegie Mel
 
 I have experience building **AI-powered applications**, developing **full-stack software**, and conducting **professional research in AI/ML**. My career interests include **software engineering**, **product management**, and **AI engineering**. I am particularly interested in **building technical products that connect emerging AI capabilities with practical, real-world applications**. 
 
-Currently, I'm developing cross-platform AI agents at **Twinly** and optimizing transformer models at **Perforated AI**. In my free time, I enjoy **hiking**, **watching films**, **playing poker**, and more.
+Currently, I'm optimizing transformer models at **Perforated AI**, after developing cross-platform AI agents at **Twinly**. In my free time, I enjoy **hiking**, **watching films**, **playing poker**, and more.
 
 ---
 
@@ -118,21 +118,6 @@ Full-stack web application delivering options portfolio risk analytics with soph
 
 ## 💼 Professional Experience
 
-### 🤖 Software Engineer | Twinly
-**Remote, EST | June 2026 – Present**
-
-Building cross-platform AI agent capabilities enabling natural language interactions with voice cloning, reservation booking, and automated gaming.
-
-**Key Contributions:**
-- Designed and shipped cross-platform AI agent capabilities in Swift and Python including voice cloning, reservation booking, and automated gaming accessible through natural prompts, supporting 100+ users and 2,000+ followers
-- Deployed Electron desktop builds across macOS and Windows, debugging platform-specific issues and maintaining consistently updated releases through Git version control, code reviews, and PR/MR-based feature integration
-- Engineered seamless multi-platform experience with cross-language compatibility
-
-**Technical Skills Applied:** 
-Swift, Python, Electron, Cross-Platform Development, Git, Natural Language Processing, API Integration
-
----
-
 ### 🧠 Machine Learning Research Collaborator | Perforated AI
 **Pittsburgh, PA | May 2026 – Present**
 
@@ -145,6 +130,21 @@ Developing PyTorch-based transformer optimization techniques to reduce model par
 
 **Technical Skills Applied:** 
 PyTorch, Transformer Models, Hyperparameter Optimization, Weights & Biases, Python, Machine Learning Research, Model Compression
+
+---
+
+### 🤖 Software Engineer | Twinly
+**Remote, EST | June 2026 – August 2026**
+
+Building cross-platform AI agent capabilities enabling natural language interactions with voice cloning, reservation booking, and automated gaming.
+
+**Key Contributions:**
+- Designed and shipped cross-platform AI agent capabilities in Swift and Python including voice cloning, reservation booking, and automated gaming accessible through natural prompts, supporting 100+ users and 2,000+ followers
+- Deployed Electron desktop builds across macOS and Windows, debugging platform-specific issues and maintaining consistently updated releases through Git version control, code reviews, and PR/MR-based feature integration
+- Engineered seamless multi-platform experience with cross-language compatibility
+
+**Technical Skills Applied:** 
+Swift, Python, Electron, Cross-Platform Development, Git, Natural Language Processing, API Integration
 
 ---
 
