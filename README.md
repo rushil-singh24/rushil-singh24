@@ -74,7 +74,7 @@ Currently, I'm optimizing transformer models at **Perforated AI**, after develop
 
 ### 🖐️ SquidSpell – Real-Time ASL Fingerspelling Recognition
 
-Full-stack computer-vision app that reads the ASL manual alphabet from a live webcam. In-browser MediaPipe hand tracking streams 21 landmarks/frame over a WebSocket to a FastAPI inference service — no video ever leaves the client.
+Full-stack computer-vision app that reads ASL fingerspelling from a live webcam, with in-browser MediaPipe hand tracking that sends only 21 hand landmarks per frame over a WebSocket, keeping the camera feed on the user's device. Engineered hand-geometry features feed a RandomForest at 99.4% test accuracy across 24 static letters, plus a separate gated classifier for the motion letters J and Z.
 
 | Aspect | Details |
 |--------|---------|
@@ -139,7 +139,7 @@ Full-stack web application delivering options portfolio risk analytics with soph
 
 ### 💬 DataChat AI – Local Conversational Data Analysis
 
-Local-first tool for chatting with CSV/Excel/Parquet datasets. Every analytical answer is grounded in the uploaded data — generated stats, executed code, or a chart derived from it — and unanswerable questions are refused rather than hallucinated.
+Local-first tool for chatting with CSV, Excel, and Parquet datasets, where every answer is grounded in the uploaded data and unanswerable questions are refused rather than hallucinated. Shows a transparent analysis plan before each answer and executes generated Pandas/DuckDB code under AST validation and restricted globals, running entirely on localhost with a local LLM.
 
 | Aspect | Details |
 |--------|---------|
@@ -152,7 +152,7 @@ Local-first tool for chatting with CSV/Excel/Parquet datasets. Every analytical 
 
 ### 🌿 Canopy – Sustainability Rewards App *(team hackathon)*
 
-Scores how green your bank spending is and pays out an XRP-pegged "Canopy Coin"; friends pool coin into a shared pot and compete on a sustainability leaderboard.
+Sustainability rewards app that classifies bank transactions and pays out an XRP-pegged "Canopy Coin", with a shared friend pot and a leaderboard ranked by a 0–100 sustainability score. My contribution: integrated the weighted 5-factor ML scoring model into the app, along with negative-event handling, the XRP reward logic, and the profile and insights UI.
 
 | Aspect | Details |
 |--------|---------|
