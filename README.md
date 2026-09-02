@@ -72,6 +72,27 @@ Currently, I'm optimizing transformer models at **Perforated AI**, after develop
 
 ## 🎯 Featured Projects
 
+### 🖐️ SquidSpell – Real-Time ASL Fingerspelling Recognition
+
+Full-stack computer-vision app that reads the ASL manual alphabet from a live webcam. In-browser MediaPipe hand tracking streams 21 landmarks/frame over a WebSocket to a FastAPI inference service — no video ever leaves the client.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | Python, FastAPI, WebSockets, scikit-learn, MediaPipe, NumPy, React 19, TypeScript, Vite, Supabase (Postgres + RLS) |
+| **Models** | RandomForest on engineered hand geometry — **99.4%** test accuracy across 24 static letters; separate gated trajectory classifier for motion letters J/Z (**89.3%**) with a `reject` class |
+| **Architecture** | Server-authoritative transcript + race scoring over WebSockets (survives refresh/reconnect); frontend talks to Supabase directly with Row-Level Security as the isolation boundary |
+| **Product** | Two modes on one engine — open-ended practice, and a MonkeyType-style timed sprint with a public leaderboard and optional Google sign-in |
+| **Infra** | Vercel + Render + GitHub Actions CI; 203 automated tests (58 pytest, 145 Vitest) |
+| **Links** | [Live demo](https://squidspell.vercel.app) · [Repository](https://github.com/rushil-singh24/squidspell) |
+
+**Technical Highlights:**
+- Engineered a hand-geometry feature set (pairwise fingertip distances, joint angles, finger-extension, scale/position normalisation) that beat raw-landmark baselines on every model compared
+- Built a temporal smoother that commits a static letter only after it is held stable ~0.5s, and gated the motion classifier on both starting handshape and actual hand movement to kill false triggers
+- Made transcript and race scoring server-authoritative so client refreshes and reconnects can't desync game state
+- Shipped Google OAuth, per-user history, and an RLS-backed public leaderboard on Supabase — the API server never proxies DB calls
+
+---
+
 ### 🎵 TuneBloom – Music Discovery Application
 
 AI-powered personalized music recommendation engine that intelligently discovers new tracks tailored to user preferences using advanced content-based filtering algorithms.
@@ -113,6 +134,31 @@ Full-stack web application delivering options portfolio risk analytics with soph
 - Implemented Monte Carlo risk simulation engine processing 10,000+ price path scenarios
 - Calculated Value-at-Risk statistics at multiple confidence intervals for comprehensive downside risk assessment
 - Built interactive visualizations enabling traders to optimize portfolio strategies
+
+---
+
+### 💬 DataChat AI – Local Conversational Data Analysis
+
+Local-first tool for chatting with CSV/Excel/Parquet datasets. Every analytical answer is grounded in the uploaded data — generated stats, executed code, or a chart derived from it — and unanswerable questions are refused rather than hallucinated.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | Next.js, FastAPI, Pandas, DuckDB, Ollama / Qwen3 (local LLM) |
+| **Grounding** | Shows a transparent analysis plan before every answer; executes generated Pandas/DuckDB code under AST validation and restricted globals |
+| **Features** | Instant dataset profiling (schema, missing values, duplicates, high-cardinality columns), ChatGPT-style interface, result tables + generated charts + confidence indicators |
+| **Repository** | [View on GitHub](https://github.com/rushil-singh24/Dataset-Agent) |
+
+---
+
+### 🌿 Canopy – Sustainability Rewards App *(team hackathon)*
+
+Scores how green your bank spending is and pays out an XRP-pegged "Canopy Coin"; friends pool coin into a shared pot and compete on a sustainability leaderboard.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | React 18, TypeScript, Vite, Node/Express, Capital One Nessie API, XRP Ledger (xrpl.js) |
+| **My contribution** | Integrated the ML sustainability-scoring model into the app (weighted 5-factor score, negative-event handling, XRP-pegged reward logic), plus the user profile modal and adaptive AI-insights dropdowns |
+| **Links** | [Live demo](https://canopyrewards.vercel.app) · [My fork](https://github.com/rushil-singh24/canopy) · [Team repo](https://github.com/25sreddy/canopy-your-green-rewards) |
 
 ---
 
