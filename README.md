@@ -94,26 +94,24 @@ Full-stack computer-vision app that reads ASL fingerspelling from a live webcam,
 
 ---
 
-### 🐍 Snake Duel – Real-Time 1v1 Multiplayer Game
+### 🐍 Snake Duel – Real-Time Multiplayer Game
 
-A browser-based two-player snake game built from scratch in C++ with no game engine. One deterministic simulation is compiled to three targets — a native SDL2 desktop client, a WebAssembly build that runs the same code in the browser, and an authoritative headless server — so every client and the server step byte-identical game logic with no client-side prediction. Queue instantly against a bot, or create a private room and send a friend the link.
+A small browser game where you play snake against a friend or a bot in real time. Built from scratch in C++ with no game engine, and it runs three ways from one codebase: a desktop app, a browser build (WebAssembly), and the server that runs online matches.
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | C++20, SDL2, WebAssembly (Emscripten), WebSockets (IXWebSocket), nlohmann/json, doctest, CMake, Docker |
-| **Architecture** | A single pure `sim/` core (no SDL, no sockets, no I/O) linked by the native client, the browser client, and the server; clients render whatever snapshot last arrived — no prediction or interpolation needed at the grid-snapped 10 Hz tick |
-| **Server** | Authoritative headless process: 10 Hz tick, in-memory room map behind one mutex, JSON-over-WebSocket protocol, **no database**; ships as one Docker container |
-| **Testing** | 73 unit tests / 575 assertions across the simulation, bot AI, wire protocol, and client state machine; clean build under `-Wall -Wextra -Wpedantic` |
-| **Features** | Instant bot matches, private rooms via shareable link, best-of-N with a configurable coin goal, a bot that warms up each round toward a difficulty-set skill floor, synthesized sound effects |
-| **Infra** | Render (server) + Vercel (WASM client) |
+| **Stack** | C++, SDL2, WebAssembly (Emscripten), WebSockets, Docker, CMake |
+| **How it works** | One shared game-logic core runs on every player's device and on the server, so matches stay perfectly in sync |
+| **Server** | 10 Hz authoritative WebSocket server, rooms kept in memory, JSON messages, no database, one Docker container |
+| **Testing** | 73 automated tests covering the game logic, bot AI, and network protocol |
+| **Features** | Instant bot matches, private rooms via a shareable link, best-of-N with a coin goal, a bot that gets tougher each round, sound |
 | **Links** | [Live demo](https://snake-duel-pied.vercel.app) · [Repository](https://github.com/rushil-singh24/snake-duel) |
 
 **Technical Highlights:**
-- Wrote the whole thing without a game engine — the fixed-timestep loop, a 5x7 bitmap font, and a small square-wave audio synth are all hand-rolled
-- Kept the simulation byte-for-byte identical between offline and networked play, so the only thing that changes is where inputs and state come from; verified two clients receive identical snapshots tick for tick
-- Built the browser client from the exact same C++ as the desktop client, swapping only the WebSocket transport (IXWebSocket ↔ Emscripten) behind one interface
-- Server generates short room codes, runs a lobby with host-controlled start, and reaps empty rooms — entirely in memory, no persistence layer
-- Bot chases the pellet along safe moves but injects a decaying rate of random (still non-suicidal) moves, so it feels like it warms up over the course of a match
+- Wrote everything by hand with no engine: the game loop, the bitmap font, and the sound effects are all custom
+- Reused one copy of the game logic on desktop, in the browser, and on the server, so the two sides can never fall out of sync
+- Built the browser version from the same C++ as the desktop app, changing only how it talks over the network
+- Gave the bot a mistake rate that shrinks each round, so it feels like it warms up over a match
 
 ---
 
