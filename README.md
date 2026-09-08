@@ -56,6 +56,7 @@ Currently, I'm optimizing transformer models at **Perforated AI**, after develop
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-667eea?style=for-the-badge&logo=plotly&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-667eea?style=for-the-badge&logo=framer&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-667eea?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-667eea?style=for-the-badge&logo=webassembly&logoColor=white)
 
 ### Developer Tools
 ![Git](https://img.shields.io/badge/Git-667eea?style=for-the-badge&logo=git&logoColor=white)
@@ -90,6 +91,29 @@ Full-stack computer-vision app that reads ASL fingerspelling from a live webcam,
 - Built a temporal smoother that commits a static letter only after it is held stable ~0.5s, and gated the motion classifier on both starting handshape and actual hand movement to kill false triggers
 - Made transcript and race scoring server-authoritative so client refreshes and reconnects can't desync game state
 - Shipped Google OAuth, per-user history, and an RLS-backed public leaderboard on Supabase — the API server never proxies DB calls
+
+---
+
+### 🐍 Snake Duel – Real-Time 1v1 Multiplayer Game
+
+A browser-based two-player snake game built from scratch in C++ with no game engine. One deterministic simulation is compiled to three targets — a native SDL2 desktop client, a WebAssembly build that runs the same code in the browser, and an authoritative headless server — so every client and the server step byte-identical game logic with no client-side prediction. Queue instantly against a bot, or create a private room and send a friend the link.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | C++20, SDL2, WebAssembly (Emscripten), WebSockets (IXWebSocket), nlohmann/json, doctest, CMake, Docker |
+| **Architecture** | A single pure `sim/` core (no SDL, no sockets, no I/O) linked by the native client, the browser client, and the server; clients render whatever snapshot last arrived — no prediction or interpolation needed at the grid-snapped 10 Hz tick |
+| **Server** | Authoritative headless process: 10 Hz tick, in-memory room map behind one mutex, JSON-over-WebSocket protocol, **no database**; ships as one Docker container |
+| **Testing** | 73 unit tests / 575 assertions across the simulation, bot AI, wire protocol, and client state machine; clean build under `-Wall -Wextra -Wpedantic` |
+| **Features** | Instant bot matches, private rooms via shareable link, best-of-N with a configurable coin goal, a bot that warms up each round toward a difficulty-set skill floor, synthesized sound effects |
+| **Infra** | Render (server) + Vercel (WASM client) |
+| **Links** | [Live demo](https://snake-duel-pied.vercel.app) · [Repository](https://github.com/rushil-singh24/snake-duel) |
+
+**Technical Highlights:**
+- Wrote the whole thing without a game engine — the fixed-timestep loop, a 5x7 bitmap font, and a small square-wave audio synth are all hand-rolled
+- Kept the simulation byte-for-byte identical between offline and networked play, so the only thing that changes is where inputs and state come from; verified two clients receive identical snapshots tick for tick
+- Built the browser client from the exact same C++ as the desktop client, swapping only the WebSocket transport (IXWebSocket ↔ Emscripten) behind one interface
+- Server generates short room codes, runs a lobby with host-controlled start, and reaps empty rooms — entirely in memory, no persistence layer
+- Bot chases the pellet along safe moves but injects a decaying rate of random (still non-suicidal) moves, so it feels like it warms up over the course of a match
 
 ---
 
