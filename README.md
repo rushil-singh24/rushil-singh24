@@ -174,13 +174,20 @@ Local-first tool for chatting with CSV, Excel, and Parquet datasets, where every
 
 ### 🌿 Canopy – Sustainability Rewards App *(team hackathon)*
 
-Sustainability rewards app that classifies bank transactions and pays out an XRP-pegged "Canopy Coin", with a shared friend pot and a leaderboard ranked by a 0–100 sustainability score. My contribution: integrated the weighted 5-factor ML scoring model into the app, along with negative-event handling, the XRP reward logic, and the profile and insights UI.
+Full-stack app that turns eco-conscious spending into a game: it reads transactions through Capital One's Nessie API, scores them, and pays rewards in an XRP-pegged token called Canopy Coin, with shared wallet pools, friend networks, and leaderboards.
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | React 18, TypeScript, Vite, Node/Express, Capital One Nessie API, XRP Ledger (xrpl.js) |
-| **My contribution** | Integrated the ML sustainability-scoring model into the app (weighted 5-factor score, negative-event handling, XRP-pegged reward logic), plus the user profile modal and adaptive AI-insights dropdowns |
+| **Stack** | React 18, TypeScript, Vite, Framer Motion, Recharts, Node.js/Express, Capital One Nessie API, XRP Ledger (xrpl.js) |
+| **ML scoring** | Custom algorithm weighing 5 sustainability factors into a personalized 0–100 score, plus AI-powered behavioral insights from spending |
+| **Rewards** | XRPL testnet integration for automated wallet creation and 1:1 USD-pegged token distribution at set reward rates |
+| **Backend** | Node/Express service managing shared wallet pools and friend networks |
 | **Links** | [Live demo](https://canopyrewards.vercel.app) · [My fork](https://github.com/rushil-singh24/canopy) · [Team repo](https://github.com/25sreddy/canopy-your-green-rewards) |
+
+**Technical Highlights:**
+- Integrated Capital One's Nessie API and the XRP Ledger to gamify eco-conscious spending through real-time transaction analysis, Canopy Coin rewards, and leaderboards over sample transactions and user profiles
+- Built a custom ML scoring algorithm weighing 5 sustainability factors to generate personalized 0-100 sustainability scores and AI-powered behavioral insights from spending
+- Implemented a React 18 + TypeScript frontend with Framer Motion animations and Recharts visualizations, a Node.js/Express backend managing shared wallet pools and friend networks, and XRPL testnet integration (xrpl.js) for automated wallet creation and 1:1 USD-pegged token distribution at specific reward rates
 
 ---
 
